@@ -1,0 +1,88 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+#nav-bar{
+    position: fixed;
+    z-index: 8888;
+    width: 100%;
+    background-color: #2196f3;
+}
+#exampleModal1, #exampleModal2, #exampleModal3, #exampleModal4, #exampleModal5, #exampleModal6, #modalalmohadas1, #modalalmohadas2, #modalalmohadas3, #modalalmohadas4, #modalalmohadas5, #modalalmohadas6, #modalsabanas1, #modalsabanas2, #modalsabanas3, #modalsabanas4, #modalsabanas5, #modalsabanas6{
+    z-index: 9999;
+}
+
+#carrito{
+    margin: 20%;
+    
+}
+#descripcion{
+    font-size: 13px;
+}
+#brand{
+    font-size: 55px;
+    margin-left: 1%;
+    padding-right: 2% ;
+    font-family: 'Times New Roman', Times, serif;
+}
+#slogan{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 27px;
+    margin-top: 3.7%;
+    margin-left: 4%;
+    
+}
+
+#titulo{
+    font-size: 80px;
+    padding-top: 4%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container .row .col-md-4  {
+    padding-left: 4%;
+    padding-top: 4%;
+}
+.container .row .col-md-4 .card .card-body{
+    background-color: #e3f2fd;
+}
+#botones{
+    background-color: #2196f3;
+    margin-top: 5%;
+}
+#video{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+#slide{
+    padding-top: 13%;
+}
+
+#separador1, #separador2, #separador3{
+    margin-left: 32%;
+ 
+}
+
+#footer{
+    margin-top: 10%;
+    height: 100px;
+    background-color: #2196f3;
+}
+#logo{
+    margin-top: 7%;
+    margin-left: 25%;
+}
+#contactanos{
+    font-size: 30px;
+    margin-top: 18%;
+}
+#firma{
+    font-size: 10px;
+    margin-left: 10%;
+    margin-top: 1.5%;
+}
+#sena{
+    font-size: 9px;
+    margin-bottom: 5%;
+}
